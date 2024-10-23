@@ -1,16 +1,13 @@
-## Hi there 👋
+## Dominic Catena (a.k.a. Horribly Excellent Programmer 🤖)
+🎓 3rd Year CS & Applied Mathematics Student at Stevens Institute of Technology | 💻 Software Engineer 
 
-<!--
-**Dcatna/Dcatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I love building:
+- Autonomous vehicle environments (CARLA-MARL)/MARL algorithms (MAPPO, MADQN)
+- Machine learning models to predict the future (Sports Predictions, Stock Market Analysis)
+- Full-stack apps (I swear I can center a div 😬)
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+![Skills](https://skillicons.dev/icons?i=Python,Java,TypeScript,JavaScript,React,C#,.NET,github,linux,windows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcatna&show_icons=true)
