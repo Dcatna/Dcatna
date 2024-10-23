@@ -7,7 +7,7 @@
 - Full-stack apps (I swear I can center a div 😬)
 
 ### 🛠️ Skills:
-![Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,react,csharp,dotnet,github,linux,windows)
+![Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,react,c#,dotnet,github,linux,windows)
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcatna&show_icons=true)
