@@ -9,5 +9,3 @@
 ### 🛠️ Skills:
 ![Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,react,cs,dotnet,github,linux,windows)
 
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dcatna&show_icons=true)
