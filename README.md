@@ -1,4 +1,4 @@
-## Dominic Catena (Horribly Excellent Programmer 🤖)
+## Dominic Catena
 🎓 3rd Year CS & Applied Mathematics Student at Stevens Institute of Technology | 💻 Software Engineer 
 
 🚀 I build:
