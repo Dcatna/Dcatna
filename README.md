@@ -4,7 +4,7 @@
 🚀 I build:
 - Full-stack apps (Can definitely center a div)
 - Autonomous vehicle environments (CARLA-MARL)/MARL algorithms (MAPPO, MADQN)
-- Machine learning models to predict the future (Sports Predictions, Stock Market Analysis)
+- Machine learning models (Sports Predictions, Stock Market Analysis)
 
 ### 🛠️ Skills:
 ![Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,react,cs,dotnet,github,linux,windows)
