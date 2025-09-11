@@ -1,5 +1,5 @@
 ## Dominic Catena
-🎓 3rd Year CS & Applied Mathematics Student at Stevens Institute of Technology | Software Engineer 
+🎓 4th Year CS & Applied Mathematics Student at Stevens Institute of Technology | Software Engineer 
 
 ## I build:
 - Full-stack apps (Can definitely center a div)
