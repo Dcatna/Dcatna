@@ -2,7 +2,7 @@
 🎓 4th Year CS & Applied Mathematics Student at Stevens Institute of Technology | Software Engineer 
 
 ## I build:
-- Full-stack apps (Can definitely center a div)
+- Full-stack apps
 - Autonomous vehicle environments (CARLA-MARL)/MARL algorithms (MAPPO, MADQN)
 - Machine learning models (Sports Predictions, Stock Market Analysis)
 
