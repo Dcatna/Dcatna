@@ -1,5 +1,5 @@
 ## Dominic Catena
-🎓 4th Year CS & Applied Mathematics Student at Stevens Institute of Technology | Software Engineer 
+🎓 4th Year CS & Applied Mathematics Student at Stevens Institute of Technology | Engineer @ AndroCS
 
 ## I build:
 - Full-stack apps
